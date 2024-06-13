@@ -2,7 +2,7 @@
 
 A website to find events around you.
 
-Visit the [deployed demo site](https://evento-rho.vercel.app/).
+<!-- Visit the [deployed demo site](https://evento-rho.vercel.app/). -->
 
 ## Tech Stack
 

@@ -8,9 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "postinstall": "prisma generate",
-    "vercel": "vercel --local-config ./vercel.json",
+    "vercel:config": "vercel --local-config ./vercel.json",
     "vercel:git": "vercel git connect",
-    "vercel:init": "npm run vercel && npm run vercel:git",
+    "vercel:init": "npm run vercel:config && npm run vercel:git",
     "vercel:prod": "vercel --prod"
   },
   "prisma": {
